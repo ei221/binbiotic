@@ -1,0 +1,53 @@
+body {
+    font-family: 'Helvetica Neue', sans-serif;
+    font-size: 16px;
+    color: #333;
+    line-height: 1.5;
+    margin: 0;
+    padding: 0;
+    background-color: #fff;
+  }
+  
+  h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 48px;
+    color: #0077b6;
+    margin: 0;
+    padding: 20px 0;
+    text-align: center;
+  }
+  
+  p {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    font-size: 18px;
+    color: #333;
+    line-height: 1.5;
+    margin: 0 0 20px;
+    padding: 0;
+  }
+
+  .container {
+    text-align: center;
+  }
+
+  /* center the button and apply fancy and modern styling to it */
+  button {
+    background-color: #0077b6;
+    border: 0;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    padding: 15px 25px;
+    text-transform: uppercase;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  button:hover {
+    background-color: #96c1fb;
+  }
+
